@@ -1,13 +1,13 @@
-#Simple Google Serp (search) API
+# Simple Google Serp (search) API
 Scraper Google simplement avec cette petite API facile à utiliser. 
 Avec l'aide de scraperapi.com, l'api renvoie sous forme de json les 100 premiers résultats sur un mot clé.
 Il y a aussi la data de knowledge_graph et local.
 
-##Prérequis
+## Prérequis
 - Un compte [scraperapi](https://www.scraperapi.com/dashboard) gratuit ou payant.
 - Clé api à mettre dans le fichier ***api.php***.
 
-##Utilisation
+## Utilisation
 
 Pour utiliser, il faut lancer le fichier :
 
